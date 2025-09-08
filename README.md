@@ -3,7 +3,7 @@
 
 Logistics ERP is a completely integrated Asp.Net based CRM/ERP solution for Maritime Transport, Shipping and Logistics companies. It’s a software suite that assures smooth Administration and Management of various logistics management activities. Logistics ERP furnishes entire Logistics Management Information System. This is your one stop destination for everything about the Logistics ERP – covering everything from initial setup, to advanced customization and API integration.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/06/logistics_3.jpg">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738356820_93101cbc75820ef96a57.webp">
 
 <b>Logistics ERP has the following core modules:</b>
 
@@ -32,5 +32,15 @@ Add/ View Items, Stock Control, Supplier Contract Price Setup, Stock Issues, Sto
 <li>Ticketing System
 Create and Manage Tickets, Status, Priority, Assign to Staffs, Track Status, Email to Staffs and Customers.</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/logistics-management-erp/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/asp.net-logistics-management-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
